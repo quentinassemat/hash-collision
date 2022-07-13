@@ -6,3 +6,5 @@ I first tried to compute collision with non personalized collisions. (result in 
 Then I have personalized my collision. The idea is to mimic a passphrase (for example of a crypto currency hardware wallet). I then changed both my algorithm to find personalized collision. 
 
 runtime for 8 bytes collision : a few hours on my old computer
+
+To lauch one need to create various folder to store the results.
